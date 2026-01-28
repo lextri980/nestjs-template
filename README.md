@@ -4,7 +4,7 @@ A progressive Node.js framework for building efficient, reliable and scalable se
 
 ## 📦 Tech Stack
 
-- **Core:** [`NestJS (11.0.1)`](https://nestjs.com/) [`ReactJS (19)`](https://reactjs.org/) [`TypeScript (5)`](https://www.typescriptlang.org/)
+- **Core:** [`NestJS (11.0.1)`](https://nestjs.com/) [`TypeScript (5.7.3)`](https://www.typescriptlang.org/)
 - **UI/UX:** [`Tailwind CSS (4)`](https://tailwindcss.com/) [`Material UI (7)`](https://mui.com/) [`Sonner toast (2)`](https://sonner.emilkowal.ski/)
 - **Form:** [`React hook form (7)`](https://www.react-hook-form.com/) [`Yup (1)`](https://github.com/jquense/yup)
 - **Global state:** [`Redux toolkit (2)`](https://github.com/jquense/yup)
